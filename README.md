@@ -15,5 +15,5 @@ You will get all the executed script and code which help you to understand pytho
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Tesseract Owner [here](https://github.com/iamrajeshchauhan) by providing such a helpful solution and understanding the IMDB data. 
+Must give credit to solution developer [here](https://github.com/iamrajeshchauhan) by providing such a wonderful idea to share with all the future developers and building the use cases.
 
